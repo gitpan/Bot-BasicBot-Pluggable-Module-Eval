@@ -9,7 +9,7 @@ WriteMakefile
           'PREREQ_PM' => {
                            'Test::More' => 0,
                            'parent' => 0,
-                           'Bot::BasicBot::Pluggable' => 0,
+                           'Bot::BasicBot::Pluggable' => '0.79',
                            'Safe' => 0
                          }
         )
